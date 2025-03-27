@@ -1,0 +1,1 @@
+tagSearchIndex = [{"l":"Calculadora","h":"class calculator","d":"Section","u":"calculator.html#calculadora-heading"}];updateSearchResults();
